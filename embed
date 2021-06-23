@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        body {
+            background-color:  #2f3437; <!-- set this value to match your background color (#2f3437 is the default "dark" theme color) -->
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notion Widget Embed Template</title>
+</head>
+<body>
+  
+      <style type="text/css" media="screen">
+        .gr_grid_container {
+          /* customize grid container div here. eg: width: 500px; */
+        }
+
+        .gr_grid_book_container {
+          /* customize book cover container div here */
+          float: left;
+          width: 98px;
+          height: 160px;
+          padding: 0px 0px;
+          overflow: hidden;
+        }
+      </style>
+      <div id="gr_grid_widget_1624418485">
+        <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
+          <div class="gr_grid_container">
+    <div class="gr_grid_book_container"><a title="Cinderella Is Dead" rel="nofollow" href="https://www.goodreads.com/book/show/43900612-cinderella-is-dead"><img alt="Cinderella Is Dead" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574698353l/43900612._SX98_.jpg" /></a></div>
+    <br style="clear: both"/><br/><a class="gr_grid_branding" style="font-size: .9em; color: #382110; text-decoration: none; float: right; clear: both" rel="nofollow" href="https://www.goodreads.com/user/show/99716197-aleeya">Aleeya's favorite books »</a>
+  <noscript><br/>Share <a rel="nofollow" href="/">book reviews</a> and ratings with Aleeya, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.</noscript>
+  </div>
+
+      </div>
+      <script src="https://www.goodreads.com/review/grid_widget/99716197.Aleeya's%20currently-reading%20book%20montage?cover_size=medium&hide_link=&hide_title=true&num_books=20&order=a&shelf=currently-reading&sort=date_added&widget_id=1624418485" type="text/javascript" charset="utf-8"></script>
+
+  
+</body>
+</html>
